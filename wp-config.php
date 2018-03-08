@@ -26,7 +26,7 @@ define('DB_NAME', 'wp101ansible');
 define('DB_USER', 'wp101ansible');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'wp101dkansible!');
+define('DB_PASSWORD', 'wp101ansible!');
 
 /** MySQL hostname */
 define('DB_HOST', '10.100.51.14');
